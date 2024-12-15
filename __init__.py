@@ -11,5 +11,4 @@ if os.path.isdir(extentions_folder):
 WEB_DIRECTORY = "js"
 print('\033[92mBmad-DirtyUndoRedo Loaded.\033[0m')
 
-
-
+NODE_CLASS_MAPPINGS = {}
